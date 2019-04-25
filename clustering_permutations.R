@@ -1,5 +1,3 @@
-setwd("C:/Users/EHRSOP00/Documents/Sophie/Pipeline_CHD3_others/trrap_test")
-
 
 ## Input -- only modify these lines
 mutation_table<-read.table("SMARCC2_mutations_locations.txt", header = FALSE, sep = "\t") # Should be a tab separated file 
